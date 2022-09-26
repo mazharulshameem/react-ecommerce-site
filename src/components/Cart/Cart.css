@@ -1,0 +1,13 @@
+.cart{
+  position:sticky;
+  top:0;
+  padding: 10px 20px;
+
+}
+.cart-item{
+  padding-top: 5px;
+  padding-left: 20px;
+}
+.button-two{
+  display:block;
+}
